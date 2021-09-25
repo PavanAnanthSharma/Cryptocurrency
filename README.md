@@ -1,5 +1,9 @@
 # Cryptocurrency | SAFECRYPTO
 
+```
+@dev: Pavan Ananth Sharma
+```
+
 ## This is a BEP 20 token written in solidity, this smart contract is the clone of SafeMoon token which is alredy in circulation.
 
 > Note: This token can be deployed in Ethereum Main Network, as Binance smart chain in a colone of Ethereum Network, i highly recommend to deploy in the **Binance Test Network**
