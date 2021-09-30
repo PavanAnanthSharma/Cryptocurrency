@@ -3,6 +3,17 @@
 ```
 @dev: Pavan Ananth Sharma
 ```
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>Info
+
+More information about Ethereum smart contracts can be found here: https://eips.ethereum.org
+* Please note this link is only for the Ethereum standards for tokens, Binance might be slghtly difffrent, but this also can help when you are developing with respect to Ethereum in the future.
+
+```Link: https://eips.ethereum.org```
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## This is a BEP 20 token written in solidity, this smart contract is the clone of SafeMoon token which is alredy in circulation.
 
