@@ -17,8 +17,8 @@ More information about Ethereum smart contracts can be found here: https://eips.
 
 ## This is a BEP 20 token written in solidity, this smart contract is the clone of SafeMoon token which is alredy in circulation.
 
-> Note: This token can be deployed in Ethereum Main Network, as Binance smart chain in a colone of Ethereum Network, i highly recommend to deploy in the **Binance Test Network**
-or any of the Ethereum's test networks they are:
+> _Note: This token can be deployed in Ethereum Main Network, as Binance smart chain in a colone of Ethereum Network, i highly recommend to deploy in the **Binance Test Network**
+or any of the Ethereum's test networks they are:_
 1. Ropsten (Proof-of-Work testnet)
 2. Kovan (Proof-of-Authority testnet)
 3. Gorli (Proof-of-Authority testnet)
