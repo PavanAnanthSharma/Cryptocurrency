@@ -1,7 +1,7 @@
 /**
  *Submitted for verification at BscScan.com by Pavan Ananth Sharma
  * Edited by Pavan Ananth Sharma
-*/
+*/ 
 
 /**
    #SAFECRYPTO features:
